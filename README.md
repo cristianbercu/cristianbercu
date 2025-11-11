@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently the active CTO/Partner of Rigsters where I fathered [Arago Control](https://rigsters.com/arago/docs/overview/) - the application for scanning static objects using [Arago](https://rigsters.com/arago/) and professional photography equipment
-- 💬 Ex-engineering lead @ [GameAnalytics](https://gameanalytics.com/), worked on infrastructure and REST APIs, enforced python coding standards
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristian-bercu-32020683/)
-- 👯 I’m looking for exchanging experience with other [serious games](https://en.wikipedia.org/wiki/Serious_game) developers
-- ⚡ Fun fact: I'm an amateur boxer in Vesterbro @ Copenhagen 🥊
+- 🔭 I’m currently the Founding Engineer and CTO of Rigsters where I fathered the hybrid IoT client-server architecture with on-premises software and remote API/database integration powering [Arago](https://rigsters.com/arago/).
+- 💬 Former Engineering Lead @ [GameAnalytics](https://gameanalytics.com/) where I specialized in Python-driven projects
+- ✍️ Actively posting coding stories on [Medium](https://medium.com/@cristianbercu)
+- 🤖 Keen interest in AI
